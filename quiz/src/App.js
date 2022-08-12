@@ -64,7 +64,7 @@ const App = () => {
         data={quizData.data}
       />}
     </div>
-  );
+    );
 }
 
 export default App;
